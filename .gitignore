@@ -1,13 +1,11 @@
-# Files #
-
-# Ignores files starting with the letter #
+# Ignores files starting with the letter "z"
 
 * z*
 
-# Ignores file called #
+# Ignores file called .env
 
 * .env
 
-# Ignores a top-level directory named #
+# Ignores a top-level directory named 
 
 * artifacts
