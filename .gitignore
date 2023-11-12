@@ -1,1 +1,6 @@
 node_modules/
+# User-specific files - Ignore all files starting with the letter "z"
+
+# Mono auto generated files - Ignore all files called ".env"
+
+# artifacts - Ignore this directory 
