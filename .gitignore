@@ -1,13 +1,7 @@
-# Ignores files starting with the letter "z"
+# z*
 
-z*
+# .env
 
-# Ignores file called .env
+# /artifacts/
 
-.env
 
-# Ignores a top-level directory named 
-
-/artifacts/, 
-
-.env, /artifacts/, z*
